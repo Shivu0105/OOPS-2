@@ -1,0 +1,32 @@
+# Build folders
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+.idea/
+*.ntvsca
+*.njsproj
+*.sln.cache
+
+# OS-specific
+[Tt]humbs.db
+[Db]b.db
+
+# Rider/Resharper
+_ReSharper*/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
