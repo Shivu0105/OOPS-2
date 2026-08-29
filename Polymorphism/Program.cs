@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("We are learnig Polymorphism");
+            Console.WriteLine("We are learnig Polymorphism");
         }
     }
 }
