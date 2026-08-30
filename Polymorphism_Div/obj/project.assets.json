@@ -1,11 +1,30 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Inheritance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Inheritance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inheritance.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Inheritance/1.0.0": {
+      "type": "project",
+      "path": "../Inheritance/Inheritance.csproj",
+      "msbuildProject": "../Inheritance/Inheritance.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Inheritance >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\shiva\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\shiva\\source\\repos\\OOPS2\\Inheritance\\Inheritance.csproj": {
+              "projectPath": "C:\\Users\\shiva\\source\\repos\\OOPS2\\Inheritance\\Inheritance.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

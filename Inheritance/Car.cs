@@ -45,4 +45,12 @@ namespace CarSpace
             Console.WriteLine("KIA Electro");
         }
     }
+
+    class Electric : KIA                // Multi-Level Inheritance
+    {
+        public void Battery()
+        {
+            Console.WriteLine("Battery Working");
+        }
+    }
 }

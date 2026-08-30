@@ -1,4 +1,6 @@
-﻿namespace Polymorphism_Div
+﻿using AccessModifiersBasics;
+
+namespace Polymorphism_Div
 {
     class Demo
     {
@@ -28,6 +30,11 @@
             int result = d.Div(a, b);
             Console.WriteLine("Result " + result);
 
+
+            // public accessible outside assembly
+            //AccessModifiers access = new AccessModifiers();
+            //Console.WriteLine(access.Name);
+            
         }
     }
 }

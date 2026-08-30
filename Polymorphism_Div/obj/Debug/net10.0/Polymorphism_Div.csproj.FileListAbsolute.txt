@@ -13,3 +13,10 @@ C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\obj\Debug\net10.0\refint\Poly
 C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\obj\Debug\net10.0\Polymorphism_Div.pdb
 C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\obj\Debug\net10.0\Polymorphism_Div.genruntimeconfig.cache
 C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\obj\Debug\net10.0\ref\Polymorphism_Div.dll
+C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\bin\Debug\net10.0\Inheritance.deps.json
+C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\bin\Debug\net10.0\Inheritance.runtimeconfig.json
+C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\bin\Debug\net10.0\Inheritance.exe
+C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\bin\Debug\net10.0\Inheritance.dll
+C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\bin\Debug\net10.0\Inheritance.pdb
+C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\obj\Debug\net10.0\Polymorphism_Div.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\OOPS2\Polymorphism_Div\obj\Debug\net10.0\Polymorp.9E17958A.Up2Date

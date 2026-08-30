@@ -1,6 +1,6 @@
 ﻿using AnimalSpace;
 using CarSpace;
-
+using AccessModifiersBasics;
 
 namespace Inheritance
 {
@@ -52,7 +52,23 @@ namespace Inheritance
             k.Engine();
             k.AC();
             
+            Child ch = new Child();
 
+
+            AccessModifiers accessModifiers = new AccessModifiers();
+
+            Console.WriteLine(accessModifiers.NameGetter);
+
+            accessModifiers.DisplayProtectedMethod();
+
+            Manjiri manjiri = new Manjiri();
+            manjiri.FullName();
+
+            Electric e = new Electric();
+            e.Electro();   // KIA
+            e.Engine();    // CAR
+            e.AC();         // CAR
+            e.Battery();    // ELECTRIC (OWN)
 
         }
     }
