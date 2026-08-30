@@ -1,40 +1,10 @@
-﻿namespace Inheritance
+﻿using AnimalSpace;
+using CarSpace;
+
+
+namespace Inheritance
 {
-    class Animal                        // Parent/Base/Super Class
-    {
-        public void Sleep()
-        {
-            Console.WriteLine("Sleeping");
-        }
-        public void Running()
-        {
-            Console.WriteLine("Running");
-        }
-    }
-
-    class Dog : Animal                  // Child/Sub Class
-    {
-        public void Bark()
-        {
-            Console.WriteLine("bhow bhow...");
-        }
-    }
-    class Cat : Animal
-    {
-        public void Meaw()
-        {
-            Console.WriteLine("Meaw...");
-        }
-    }
-
-    class Tiger : Animal
-    {
-        public void Roar()
-        {
-            Console.WriteLine("Roar...");
-        }
-    }
-
+    
     internal class Program
     {
         static void Main(string[] args)
@@ -57,7 +27,10 @@
             t.Sleep();
             t.Running();
             t.Roar();
-            
+
+
+            Car car = new Car();
+            car.FolderStructure();
         }
     }
 }
