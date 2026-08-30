@@ -10,25 +10,29 @@ namespace Inheritance
         static void Main(string[] args)
         {
 
-            //Console.WriteLine("Leaning Inheritance!");
-            //Console.WriteLine("Welcome Boss!");
-            
+            Console.WriteLine("Leaning Inheritance!");
+            Console.WriteLine("Welcome Boss!");
+            Console.WriteLine("********************");
 
-            //// class Animal
-            //Dog d = new Dog();
-            //d.Sleep();                          // Inherited methods
-            //d.Running();                        // Inherited methods
-            //d.Bark();                           // Non-inherited methods
 
-            //Cat c = new Cat();
-            //c.Sleep();
-            //c.Running();
-            //c.Meaw();
+            // class Animal
+            Dog d = new Dog();
+            d.Sleep();                          // Inherited methods
+            d.Running();                        // Inherited methods
+            d.Bark();                           // Non-inherited methods
+            Console.WriteLine("********************");
 
-            //Tiger t = new Tiger();
-            //t.Sleep();
-            //t.Running();
-            //t.Roar();
+            Cat c = new Cat();
+            c.Sleep();
+            c.Running();
+            c.Meaw();
+            Console.WriteLine("********************");
+
+            Tiger t = new Tiger();
+            t.Sleep();
+            t.Running();
+            t.Roar();
+            Console.WriteLine("********************");
 
 
             // Class Car
