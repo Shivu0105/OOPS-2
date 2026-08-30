@@ -17,6 +17,10 @@
         //    set { num2 = value; }
         //}
 
+        public string Add(string a, string b)
+        {
+            return a + b;
+        }
         public int Add(int a, int b)
         {
             return a + b;
@@ -57,6 +61,8 @@
             Cal c = new Cal();
 
             byte b = 3;
+
+            Console.WriteLine(c.Add("Hello ","Shivam"));
 
             Console.WriteLine(c.Add(1, 2));
 

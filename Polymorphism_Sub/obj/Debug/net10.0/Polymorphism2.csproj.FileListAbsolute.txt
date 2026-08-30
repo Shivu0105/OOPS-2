@@ -1,0 +1,15 @@
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\bin\Debug\net10.0\Polymorphism2.exe
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\bin\Debug\net10.0\Polymorphism2.deps.json
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\bin\Debug\net10.0\Polymorphism2.runtimeconfig.json
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\bin\Debug\net10.0\Polymorphism2.dll
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\bin\Debug\net10.0\Polymorphism2.pdb
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\obj\Debug\net10.0\Polymorphism2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\obj\Debug\net10.0\Polymorphism2.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\obj\Debug\net10.0\Polymorphism2.AssemblyInfo.cs
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\obj\Debug\net10.0\Polymorphism2.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\obj\Debug\net10.0\Polymorphism2.sourcelink.json
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\obj\Debug\net10.0\Polymorphism2.dll
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\obj\Debug\net10.0\refint\Polymorphism2.dll
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\obj\Debug\net10.0\Polymorphism2.pdb
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\obj\Debug\net10.0\Polymorphism2.genruntimeconfig.cache
+C:\Users\shiva\source\repos\OOPS2\Polymorphism2\obj\Debug\net10.0\ref\Polymorphism2.dll
