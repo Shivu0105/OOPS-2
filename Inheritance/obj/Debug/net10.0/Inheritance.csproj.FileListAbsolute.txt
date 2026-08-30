@@ -1,0 +1,15 @@
+C:\Users\shiva\source\repos\OOPS2\Inheritance\bin\Debug\net10.0\Inheritance.exe
+C:\Users\shiva\source\repos\OOPS2\Inheritance\bin\Debug\net10.0\Inheritance.deps.json
+C:\Users\shiva\source\repos\OOPS2\Inheritance\bin\Debug\net10.0\Inheritance.runtimeconfig.json
+C:\Users\shiva\source\repos\OOPS2\Inheritance\bin\Debug\net10.0\Inheritance.dll
+C:\Users\shiva\source\repos\OOPS2\Inheritance\bin\Debug\net10.0\Inheritance.pdb
+C:\Users\shiva\source\repos\OOPS2\Inheritance\obj\Debug\net10.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\OOPS2\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\OOPS2\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfo.cs
+C:\Users\shiva\source\repos\OOPS2\Inheritance\obj\Debug\net10.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\OOPS2\Inheritance\obj\Debug\net10.0\Inheritance.sourcelink.json
+C:\Users\shiva\source\repos\OOPS2\Inheritance\obj\Debug\net10.0\Inheritance.dll
+C:\Users\shiva\source\repos\OOPS2\Inheritance\obj\Debug\net10.0\refint\Inheritance.dll
+C:\Users\shiva\source\repos\OOPS2\Inheritance\obj\Debug\net10.0\Inheritance.pdb
+C:\Users\shiva\source\repos\OOPS2\Inheritance\obj\Debug\net10.0\Inheritance.genruntimeconfig.cache
+C:\Users\shiva\source\repos\OOPS2\Inheritance\obj\Debug\net10.0\ref\Inheritance.dll
