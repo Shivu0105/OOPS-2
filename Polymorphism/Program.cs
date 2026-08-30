@@ -58,20 +58,22 @@
             // 1st compile-time/ Method Overloading.
             // 2nd Run-time/ Method Overriding.
 
-            Cal c = new Cal();
+            //Cal c = new Cal();
 
-            byte b = 3;
+            //byte b = 3;
 
-            Console.WriteLine(c.Add("Hello ","Shivam"));
+            //Console.WriteLine(c.Add("Hello ","Shivam"));
 
-            Console.WriteLine(c.Add(1, 2));
+            //Console.WriteLine(c.Add(1, 2));
 
-            Console.WriteLine(c.Add(1, 3));
+            //Console.WriteLine(c.Add(1, 3));
 
-            Console.WriteLine(c.Add(1,2,3));
+            //Console.WriteLine(c.Add(1,2,3));
 
-            Console.WriteLine(c.Add(300, b));
+            //Console.WriteLine(c.Add(300, b));
             
+            Animal d = new Dog();           // Dog IS-A Animal
+            d.MakeSound();
         }
     }
 }
