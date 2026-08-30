@@ -10,27 +10,46 @@ namespace Inheritance
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Leaning Inheritance!");
-            Console.WriteLine("Welcome Boss!");
+            //Console.WriteLine("Leaning Inheritance!");
+            //Console.WriteLine("Welcome Boss!");
             
-            Dog d = new Dog();
-            d.Sleep();                          // Inherited methods
-            d.Running();                        // Inherited methods
-            d.Bark();                           // Non-inherited methods
 
-            Cat c = new Cat();
-            c.Sleep();
-            c.Running();
-            c.Meaw();
+            //// class Animal
+            //Dog d = new Dog();
+            //d.Sleep();                          // Inherited methods
+            //d.Running();                        // Inherited methods
+            //d.Bark();                           // Non-inherited methods
 
-            Tiger t = new Tiger();
-            t.Sleep();
-            t.Running();
-            t.Roar();
+            //Cat c = new Cat();
+            //c.Sleep();
+            //c.Running();
+            //c.Meaw();
+
+            //Tiger t = new Tiger();
+            //t.Sleep();
+            //t.Running();
+            //t.Roar();
 
 
-            Car car = new Car();
-            car.FolderStructure();
+            // Class Car
+            Tata ta = new Tata();
+            ta.Nexon(); 
+            ta.Engine();
+            ta.AC();
+
+            Honda h = new Honda();
+            h.City();
+            h.Engine();
+            h.AC();
+            
+
+            KIA k = new KIA();
+            k.Electro(); 
+            k.Engine();
+            k.AC();
+            
+
+
         }
     }
 }

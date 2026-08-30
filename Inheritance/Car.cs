@@ -1,14 +1,48 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Channels;
 
 namespace CarSpace
 {
-    internal class Car
+    class Car
     {
        public void Engine()
         {
-            Console.WriteLine("Implemented...!");
+            Console.WriteLine("Engine Working...!");
+        }
+
+        public void AC()
+        {
+            Console.WriteLine("AC Working...!");
+            Console.WriteLine("********************");
+
+        }
+    }
+
+    class Tata : Car
+    {
+       public void Nexon()
+        {
+            Console.WriteLine("Tata Nexon");
+        }
+        
+    }
+
+    class Honda : Car
+    {
+        public void City()
+        {
+            Console.WriteLine("Honda City");
+        }
+
+    }
+
+    class KIA : Car
+    {
+        public void Electro()
+        {
+            Console.WriteLine("KIA Electro");
         }
     }
 }
