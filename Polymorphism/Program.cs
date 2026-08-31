@@ -74,6 +74,20 @@
             
             Animal d = new Dog();           // Dog IS-A Animal
             d.MakeSound();
+
+            ReserveBank r = new ReserveBank();
+            r.MainBank();
+            r.Fund();
+
+            HDFC h = new HDFC();
+            h.MainBank();
+            h.Fund();
+            h.Money();
+
+            Axis a = new Axis();
+            a.MainBank();
+            a.Fund();
+            a.Loan();
         }
     }
 }

@@ -20,4 +20,34 @@ namespace Polymorphism
             Console.WriteLine("Barking");
         }
     }
+
+    // Bank class
+    class ReserveBank
+    {
+        public void MainBank()
+        {
+            Console.WriteLine("MainBank Approved this Bank");
+        }
+
+        public void Fund()
+        {
+            Console.WriteLine("Bank have Funds");
+        }
+    }
+
+    class HDFC : ReserveBank
+    {
+        public void Money()
+        {
+            Console.WriteLine("Bank have Money");
+        }
+    }
+
+    class Axis : ReserveBank
+    {
+        public void Loan()
+        {
+            Console.WriteLine("Bank will give Loan");
+        }
+    }
 }
