@@ -14,6 +14,16 @@ namespace Polymorphism_Div
             return a / b;
         }
 
+        public int Div(int a, int b, int c)
+        {
+            if (b == 0)
+            {
+                Console.WriteLine("Can't divide by zero");
+                return 0;
+            }
+            return a / b / c;
+        }
+
     }
     internal class Program
     {
@@ -27,14 +37,20 @@ namespace Polymorphism_Div
             Console.WriteLine("Enter b Value");
             int b = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Enter c Value");
+            int c = Convert.ToInt32(Console.ReadLine());
+
             int result = d.Div(a, b);
             Console.WriteLine("Result " + result);
+
+            int final = d.Div(a, b, c);
+            Console.WriteLine("Result " + final);
 
 
             // public accessible outside assembly
             //AccessModifiers access = new AccessModifiers();
             //Console.WriteLine(access.Name);
-            
+
         }
     }
 }

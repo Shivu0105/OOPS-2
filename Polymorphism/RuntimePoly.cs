@@ -9,7 +9,7 @@ namespace Polymorphism
     {
         public virtual void MakeSound()
         {
-            Console.WriteLine("Animal making sound");
+            Console.WriteLine("Animal making sound...!");
         }
     }
 
@@ -17,7 +17,7 @@ namespace Polymorphism
     {
         public override void MakeSound()
         {
-            Console.WriteLine("Dog barks");
+            Console.WriteLine("Dog barks..!");
         }
     }
 
@@ -25,7 +25,7 @@ namespace Polymorphism
     {
         public override void MakeSound()
         {
-            Console.WriteLine("Cat Meow");
+            Console.WriteLine("Cat Meow...!");
         }
     }
 
