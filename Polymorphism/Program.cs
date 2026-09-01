@@ -24,30 +24,32 @@
 
 
             // virtual & override keyword 
-            Animal d = new Dog();           // Dog IS-A Animal
-            d.MakeSound();
+            Animal a1 = new Dog();           // Dog IS-A Animal
+            Animal a2 = new Cat();
+            a1.MakeSound();
+            a2.MakeSound();
 
 
-            // Bank class
-            ReserveBank r = new ReserveBank();
-            r.MainBank();
-            r.Fund();
+            //// Bank class
+            //ReserveBank r = new ReserveBank();
+            //r.MainBank();
+            //r.Fund();
 
-            HDFC h = new HDFC();
-            h.MainBank();
-            h.Fund();
-            h.Money();
+            //HDFC h = new HDFC();
+            //h.MainBank();
+            //h.Fund();
+            //h.Money();
 
-            Axis a = new Axis();
-            a.MainBank();
-            a.Fund();
-            a.Loan();
+            //Axis a = new Axis();
+            //a.MainBank();
+            //a.Fund();
+            //a.Loan();
 
-            //Class Printer
-            Printer p = new Printer();
-            p.Print("Hello");
-            p.Print(10);
-            p.Print(10.5);
+            ////Class Printer
+            //Printer p = new Printer();
+            //p.Print("Hello");
+            //p.Print(10);
+            //p.Print(10.5);
         }
     }
 }

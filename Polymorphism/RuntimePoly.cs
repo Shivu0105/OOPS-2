@@ -9,15 +9,23 @@ namespace Polymorphism
     {
         public virtual void MakeSound()
         {
-            Console.WriteLine("Animal Making sound..!");
+            Console.WriteLine("Animal making sound");
         }
     }
 
     class Dog : Animal
     {
-    public override void MakeSound()
+        public override void MakeSound()
         {
-            Console.WriteLine("Barking");
+            Console.WriteLine("Dog barks");
+        }
+    }
+
+    class Cat : Animal
+    {
+        public override void MakeSound()
+        {
+            Console.WriteLine("Cat Meow");
         }
     }
 
