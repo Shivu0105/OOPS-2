@@ -55,7 +55,7 @@ namespace Inheritance
 
             // Basic object creation ordering
             // Inheritance_Ctor
-            Child ch = new Child();
+            //Child ch = new Child();
 
             //// AccessModifiers
             //AccessModifiers accessModifiers = new AccessModifiers();
@@ -64,8 +64,11 @@ namespace Inheritance
 
             //accessModifiers.DisplayProtectedMethod();
 
-            //Manjiri manjiri = new Manjiri();
-            //manjiri.FullName();
+            Manjiri manjiri = new Manjiri();
+            manjiri.FullName();
+
+            Minakshi minakshi = new Minakshi();
+            minakshi.FullName();
 
 
             //// Multi Level Inheritance
