@@ -34,23 +34,25 @@ namespace Inheritance
             //t.Roar();
             //Console.WriteLine("********************");
 
-
-            //// Class Car
-            //Tata ta = new Tata();
-            //ta.Nexon(); 
-            //ta.Engine();
-            //ta.AC();
-
             //Honda h = new Honda();
             //h.City();
             //h.Engine();
             //h.AC();
 
 
+            //// Class Car
+            //Tata ta = new Tata();
+            //ta.Nexon(); 
+            //ta.Engine();
+            //ta.AC();
+            
+
             //KIA k = new KIA();
             //k.Electro(); 
             //k.Engine();
             //k.AC();
+
+
 
 
             // Basic object creation ordering
@@ -72,11 +74,20 @@ namespace Inheritance
 
 
             //// Multi Level Inheritance
+
+
+
             //Electric e = new Electric();
             //e.Electro();   // KIA
             //e.Engine();    // CAR
             //e.AC();         // CAR
             //e.Battery();    // ELECTRIC (OWN)
+
+            Elevate ele = new Elevate();
+            ele.City();
+            ele.Engine();
+            ele.AC();
+            ele.TopModel();
 
         }
     }

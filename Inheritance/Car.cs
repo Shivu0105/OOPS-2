@@ -38,6 +38,7 @@ namespace CarSpace
 
     }
 
+    
     class KIA : Car
     {
         public void Electro()
@@ -51,6 +52,14 @@ namespace CarSpace
         public void Battery()
         {
             Console.WriteLine("Battery Working");
+        }
+    }
+
+    class Elevate : Honda
+    {
+        public void TopModel()
+        {
+            Console.WriteLine("Honda Elevate TopModel");
         }
     }
 }
