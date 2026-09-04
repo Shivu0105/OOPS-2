@@ -59,15 +59,16 @@ namespace Inheritance
             //Basic object creation ordering
 
             //Inheritance_Ctor
-            Child ch = new Child();
+            //Child ch = new Child();
             Ravi r = new Ravi();
 
             //*************************************************************************
 
-            //// AccessModifiers
-            
-            //AccessModifiers accessModifiers = new AccessModifiers();
-            //Console.WriteLine(accessModifiers.NameGetter);
+            //// AccessModifiers 
+
+            AccessModifiers accessModifiers = new AccessModifiers();
+            accessModifiers.NameGetter = "Sheetal";
+            Console.WriteLine(accessModifiers.NameGetter);
 
             //accessModifiers.DisplayProtectedMethod();
 
