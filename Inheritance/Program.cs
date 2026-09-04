@@ -19,7 +19,7 @@ namespace Inheritance
             //Dog d = new Dog();
             //d.Sleep();                          // Inherited methods
             //d.Running();                        // Inherited methods
-            //d.Bark();                           // Non-inherited methods
+            //d.Bark();                           // Non-inherited methods or own method
             //Console.WriteLine("********************");
 
             //Cat c = new Cat();
@@ -34,6 +34,8 @@ namespace Inheritance
             //t.Roar();
             //Console.WriteLine("********************");
 
+            //*************************************************************************
+
             //Honda h = new Honda();
             //h.City();
             //h.Engine();
@@ -45,32 +47,35 @@ namespace Inheritance
             //ta.Nexon(); 
             //ta.Engine();
             //ta.AC();
-            
+
 
             //KIA k = new KIA();
             //k.Electro(); 
             //k.Engine();
             //k.AC();
 
+            //*************************************************************************
 
+            //Basic object creation ordering
 
+            //Inheritance_Ctor
+            Child ch = new Child();
+            Ravi r = new Ravi();
 
-            // Basic object creation ordering
-            // Inheritance_Ctor
-            //Child ch = new Child();
+            //*************************************************************************
 
             //// AccessModifiers
+            
             //AccessModifiers accessModifiers = new AccessModifiers();
-
             //Console.WriteLine(accessModifiers.NameGetter);
 
             //accessModifiers.DisplayProtectedMethod();
 
-            Manjiri manjiri = new Manjiri();
-            manjiri.FullName();
+            //Manjiri manjiri = new Manjiri();
+            //manjiri.FullName();
 
-            Minakshi minakshi = new Minakshi();
-            minakshi.FullName();
+            //Minakshi minakshi = new Minakshi();
+            //minakshi.FullName();
 
 
             //// Multi Level Inheritance
@@ -78,16 +83,16 @@ namespace Inheritance
 
 
             //Electric e = new Electric();
-            //e.Electro();   // KIA
+            //e.Electro();   // KIA 
             //e.Engine();    // CAR
             //e.AC();         // CAR
             //e.Battery();    // ELECTRIC (OWN)
 
-            Elevate ele = new Elevate();
-            ele.City();
-            ele.Engine();
-            ele.AC();
-            ele.TopModel();
+            //Elevate ele = new Elevate();
+            //ele.City();    //Honda
+            //ele.Engine();  //Car
+            //ele.AC();      //Car
+            //ele.TopModel(); //Own
 
         }
     }
