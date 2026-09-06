@@ -60,28 +60,29 @@ namespace Inheritance
 
             //Inheritance_Ctor
             //Child ch = new Child();
-            Ravi r = new Ravi();
+            //Ravi r = new Ravi();
 
             //*************************************************************************
 
-            //// AccessModifiers 
+            // AccessModifiers 
 
             AccessModifiers accessModifiers = new AccessModifiers();
-            accessModifiers.NameGetter = "Sheetal";
+            //accessModifiers.NameGetter = "Sheetal";
             Console.WriteLine(accessModifiers.NameGetter);
 
-            //accessModifiers.DisplayProtectedMethod();
+            accessModifiers.FullName();
 
-            //Manjiri manjiri = new Manjiri();
-            //manjiri.FullName();
+            Manjiri manjiri = new Manjiri();
+            Console.WriteLine(manjiri.NameGetter);
+            manjiri.FullName();
 
-            //Minakshi minakshi = new Minakshi();
-            //minakshi.FullName();
+            Minakshi minakshi = new Minakshi();
+            Console.WriteLine(minakshi.GetName);
+            minakshi.FullName();
+
 
 
             //// Multi Level Inheritance
-
-
 
             //Electric e = new Electric();
             //e.Electro();   // KIA 
