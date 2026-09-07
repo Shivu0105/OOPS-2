@@ -10,7 +10,7 @@ namespace Inheritance
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Leaning Inheritance!");
+            Console.WriteLine("Leaning Inheritance!"); 
             Console.WriteLine("Welcome Boss!");
             Console.WriteLine("********************");
 
