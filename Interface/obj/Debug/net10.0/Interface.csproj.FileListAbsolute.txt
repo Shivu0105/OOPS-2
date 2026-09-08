@@ -1,0 +1,15 @@
+C:\Users\shiva\source\repos\OOPS2\Interface\bin\Debug\net10.0\Interface.exe
+C:\Users\shiva\source\repos\OOPS2\Interface\bin\Debug\net10.0\Interface.deps.json
+C:\Users\shiva\source\repos\OOPS2\Interface\bin\Debug\net10.0\Interface.runtimeconfig.json
+C:\Users\shiva\source\repos\OOPS2\Interface\bin\Debug\net10.0\Interface.dll
+C:\Users\shiva\source\repos\OOPS2\Interface\bin\Debug\net10.0\Interface.pdb
+C:\Users\shiva\source\repos\OOPS2\Interface\obj\Debug\net10.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\OOPS2\Interface\obj\Debug\net10.0\Interface.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\OOPS2\Interface\obj\Debug\net10.0\Interface.AssemblyInfo.cs
+C:\Users\shiva\source\repos\OOPS2\Interface\obj\Debug\net10.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\OOPS2\Interface\obj\Debug\net10.0\Interface.sourcelink.json
+C:\Users\shiva\source\repos\OOPS2\Interface\obj\Debug\net10.0\Interface.dll
+C:\Users\shiva\source\repos\OOPS2\Interface\obj\Debug\net10.0\refint\Interface.dll
+C:\Users\shiva\source\repos\OOPS2\Interface\obj\Debug\net10.0\Interface.pdb
+C:\Users\shiva\source\repos\OOPS2\Interface\obj\Debug\net10.0\Interface.genruntimeconfig.cache
+C:\Users\shiva\source\repos\OOPS2\Interface\obj\Debug\net10.0\ref\Interface.dll
