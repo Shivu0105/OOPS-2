@@ -4,13 +4,21 @@ using System.Text;
 
 namespace Interface
 {
-    public interface IAnimal
+    public interface IAnimal                // Pure 100% abstraction
     {
         void MakeSound();  // Every animal must have a method called MakeSound().
         int Legs { get; set; }//Every animal must also have a property called Legs.
     }                          // (get;) -> Means you can read the value.
                                // (set;) -> Means you can change the value.
 
+
+    interface Car{
+        int wheels { get; set; }
+        string color { get; set; }
+
+        void moving();
+
+    }
 
     public class Dog : IAnimal  // Dog implements the interface.
     {

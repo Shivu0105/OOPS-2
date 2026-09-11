@@ -4,16 +4,26 @@ using System.Text;
 
 namespace Abstraction
 {
-    public abstract class Payment
+    public abstract class Payment                       // 50% abstraction
     {
-        public abstract void Pay(decimal amount);
+        public abstract void Pay(decimal amount);        // abstract mtd
+        public virtual void Refund(decimal amount)        // concrete method
+        {
+            amount = Convert.ToDecimal(amount);
+            amount = amount/100;
+            Console.WriteLine($"Refund {amount} using Generic Payment");
+        }
 
     }
 
-    public class CreditCardPayment : Payment
+    public class CreditCardPayment : Payment 
     {
         public override void Pay(decimal amount)
         {
+            if (amount <= 100)
+            {
+                Console.WriteLine($"Amt Rs{amount} not accepted by Credit card it should be greater than 100.. Thank you.!");
+            }
             Console.WriteLine($"Paid Rs{amount} using Credit Card.");
         }
     }

@@ -6,7 +6,8 @@
         {
 
             Payment P1 = new CreditCardPayment(); // Up-casting
-            P1.Pay(10000);
+            P1.Pay(90);
+            P1.Refund(90);
             Console.WriteLine();
 
             Payment P2 = new UPIPayment();
@@ -19,6 +20,7 @@
 
             Payment P4 = new ByCash();
             P4.Pay(300);
+            P4.Refund(300);
         }
     }
 }
