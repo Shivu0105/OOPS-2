@@ -1,0 +1,15 @@
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\bin\Debug\net10.0\If_else_Programs.exe
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\bin\Debug\net10.0\If_else_Programs.deps.json
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\bin\Debug\net10.0\If_else_Programs.runtimeconfig.json
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\bin\Debug\net10.0\If_else_Programs.dll
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\bin\Debug\net10.0\If_else_Programs.pdb
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\obj\Debug\net10.0\If_else_Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\obj\Debug\net10.0\If_else_Programs.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\obj\Debug\net10.0\If_else_Programs.AssemblyInfo.cs
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\obj\Debug\net10.0\If_else_Programs.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\obj\Debug\net10.0\If_else_Programs.sourcelink.json
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\obj\Debug\net10.0\If_else_Programs.dll
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\obj\Debug\net10.0\refint\If_else_Programs.dll
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\obj\Debug\net10.0\If_else_Programs.pdb
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\obj\Debug\net10.0\If_else_Programs.genruntimeconfig.cache
+C:\Users\shiva\source\repos\OOPS2\If_else_Programs\obj\Debug\net10.0\ref\If_else_Programs.dll

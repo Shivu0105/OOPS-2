@@ -6,7 +6,7 @@
         {
             IAnimal myDog = new Dog();
             myDog.MakeSound();
-            Console.WriteLine($"Dogs having {myDog.Legs} Legs");
+            Console.WriteLine($"Dogs Having {myDog.Legs} Legs");
             Console.WriteLine();
 
             IAnimal myCat = new Cat();

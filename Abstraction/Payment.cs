@@ -7,6 +7,7 @@ namespace Abstraction
     public abstract class Payment
     {
         public abstract void Pay(decimal amount);
+
     }
 
     public class CreditCardPayment : Payment

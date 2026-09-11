@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            Payment P1 = new CreditCardPayment();
+            Payment P1 = new CreditCardPayment(); // Up-casting
             P1.Pay(10000);
             Console.WriteLine();
 

@@ -11,6 +11,7 @@ namespace Interface
     }                          // (get;) -> Means you can read the value.
                                // (set;) -> Means you can change the value.
 
+
     public class Dog : IAnimal  // Dog implements the interface.
     {
         public int Legs { get; set; } = 4;
@@ -21,6 +22,7 @@ namespace Interface
         }
     }
 
+
     public class Cat : IAnimal
     {
         public int Legs { get; set; } = 4;
@@ -28,6 +30,7 @@ namespace Interface
         {
             Console.WriteLine("Cat Meow!");
         }
+
     }
 
     public class Monkey : IAnimal
