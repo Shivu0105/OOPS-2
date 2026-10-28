@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva\\source\\repos\\OOPS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D620BE4B-5450-4FD2-B825-66EF67C4D04F}|Polymorphism\\Polymorphism.csproj|c:\\users\\shiva\\source\\repos\\oops2\\polymorphism\\runtimepoly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D620BE4B-5450-4FD2-B825-66EF67C4D04F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\runtimepoly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D620BE4B-5450-4FD2-B825-66EF67C4D04F}|Polymorphism\\Polymorphism.csproj|c:\\users\\shiva\\source\\repos\\oops2\\polymorphism\\compiletime_poly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D620BE4B-5450-4FD2-B825-66EF67C4D04F}|Polymorphism\\Polymorphism.csproj|solutionrelative:polymorphism\\compiletime_poly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F46162-B848-450D-9FA0-B9A6FB120F72}|Abstraction\\Abstraction.csproj|c:\\users\\shiva\\source\\repos\\oops2\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F46162-B848-450D-9FA0-B9A6FB120F72}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F46162-B848-450D-9FA0-B9A6FB120F72}|Abstraction\\Abstraction.csproj|c:\\users\\shiva\\source\\repos\\oops2\\abstraction\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F46162-B848-450D-9FA0-B9A6FB120F72}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\OOPS2\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\OOPS2\\Abstraction\\Program.cs",
+              "RelativeToolTip": "Abstraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T12:54:23.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\OOPS2\\Abstraction\\Payment.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Payment.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\OOPS2\\Abstraction\\Payment.cs",
+              "RelativeToolTip": "Abstraction\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T12:54:18.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RuntimePoly.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\OOPS2\\Polymorphism\\RuntimePoly.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\RuntimePoly.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\OOPS2\\Polymorphism\\RuntimePoly.cs",
+              "RelativeToolTip": "Polymorphism\\RuntimePoly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T15:00:04.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compiletime_Poly.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\OOPS2\\Polymorphism\\Compiletime_Poly.cs",
+              "RelativeDocumentMoniker": "Polymorphism\\Compiletime_Poly.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\OOPS2\\Polymorphism\\Compiletime_Poly.cs",
+              "RelativeToolTip": "Polymorphism\\Compiletime_Poly.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T14:58:07.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

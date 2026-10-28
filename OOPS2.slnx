@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Abstraction/Abstraction.csproj" Id="68f46162-b848-450d-9fa0-b9a6fb120f72" />
+  <Project Path="If_else_Programs/If_else_Programs.csproj" Id="7d4b2467-7393-4654-96ac-57877eba32c6" />
+  <Project Path="Inheritance/Inheritance.csproj" Id="4ca8ae35-0aa3-4785-bd49-c9491b9b93e4" />
+  <Project Path="Interface/Interface.csproj" Id="e92bd3db-33cc-4be6-ba7d-fe8e936a9713" />
+  <Project Path="Loop/Loop.csproj" Id="2df5f121-a268-4f5d-96d4-295cf5a46f7b" />
+  <Project Path="OOPS2/OOPS2.csproj" />
+  <Project Path="Polymorphism/Polymorphism.csproj" Id="d620be4b-5450-4fd2-b825-66ef67c4d04f" />
+  <Project Path="Polymorphism2/Polymorphism_Sub.csproj" Id="00665dd0-c42a-40bb-b06d-ca72f4d56d4f" />
+  <Project Path="Polymorphism_Div/Polymorphism_Div.csproj" Id="d1ac718c-3062-4753-bb63-0a58a8bbfa17" />
+  <Project Path="Polymorphism_Mul/Polymorphism_Mul.csproj" Id="0c86af40-1507-4938-b2db-f7d72a8c6905" />
+</Solution>
